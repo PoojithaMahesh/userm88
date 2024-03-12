@@ -7,6 +7,7 @@ import userm88.dto.User;
 
 public class UserController {
 public static void main(String[] args) {
+	System.out.println("HII");
 	System.out.println("Welcome to User Application");
 	System.out.println("Please enter1 to save the data");
 	System.out.println("enter 2 to update the data");
